@@ -1,0 +1,2 @@
+# Vehicle-Routing-Problem-with-Knapsack
+In this project, i find the optimal routes of 5 cargo trucks starting from a cental warehouse. In every route,  each truck serves a number of customers, and has a maximum "serving" capacity. Each truck also chooses which customers to serve according to a profit to cost ratio (The knapsack problem) but not all customers can be served. When the final solution is found, it gets further improved with a Variable Neighborhood Descent Algorithm.
